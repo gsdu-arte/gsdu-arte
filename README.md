@@ -1,9 +1,11 @@
 ## Hi there, I'm Gabriella! 👋
 
-- 🎓 I’m Finishing my studies in Web Development at Trybe
+- 🎓 I’m Finishing my studies in Web Development at [Trybe](https://www.betrybe.com/)
 - 🌱 Currently learning Python
 - 😄 Pronouns: She/Her
 - 🌎 Based in Brazil
+- 📫 How to reach me: [gabi15duarte@gmail.com](mailto:gabi15duarte@gmail.com)
+
 
 ## Skills
 
@@ -26,9 +28,6 @@
 ## Socials
 
 <div>
-  <a href = "mailto:gabi15duarte@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
   <a href="https://www.linkedin.com/in/gabriellasilvaduarte/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
